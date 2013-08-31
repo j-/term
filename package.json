@@ -1,0 +1,16 @@
+{
+  "name": "term",
+  "version": "0.0.0",
+  "description": "Terminal control character library",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "~1.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Jamie Hoeks <j@skeoh.com>",
+  "license": "MIT"
+}
