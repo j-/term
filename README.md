@@ -9,7 +9,7 @@ http://en.wikipedia.org/wiki/ANSI_escape_code
 With [npm](http://npmjs.org/):
 
 ```sh
-$ npm install https://github.com/j-/term.git
+$ npm install git://github.com/j-/term.git
 ```
 
 ## Documentation
